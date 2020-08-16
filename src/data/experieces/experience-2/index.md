@@ -1,11 +1,9 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'Shukis Construction'
+position: 'General Laborer'
+startDate: 'May 2006'
+endDate: 'August 2008'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Intermittent position. Tasks included preparing areas for painting, carpentry, plumbing, and concrete work. Through the operations of tools and machinery to clear bush, dig, assist with concrete, assist carpentry and electrical work.  Maintenance and repair of tools to operational states. Facilities and building maintenance to ensure cleanliness and safety. This position included a variety of working conditions and skills.

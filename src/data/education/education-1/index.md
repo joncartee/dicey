@@ -1,9 +1,10 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'Shasta College'
+degree: 'AA in General Education'
+startDate: '2003'
+endDate: '2009'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+59 Units in General Education, 2003-2009. 
+I returned to take some additional classes. 
