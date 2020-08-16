@@ -1,7 +1,7 @@
 ---
 category: 'testimonials'
-cover: './testimonial-1.jpg'
-title: 'Nick Carraway'
+cover: './laura.jpg'
+title: 'Laura'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Friendly and efficient service; had my electronic problem diagnosed within a day and even did extra leg work of contacting the manufacturer to check on warranty coverage. Highly recommend and definitely would use again!
