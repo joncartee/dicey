@@ -6,15 +6,30 @@ startDate: 'Mar 2012'
 endDate: 'Present'
 ---
 
-Preparation of  samples for analysis through skilled operation of specialized tools and equipment to perform, i.e. distillation, digestion, or extraction. 
-Ensure that extracted samples via STLC or TCLP are set up in a timely fashion. 
-Perform laboratory analysis of biological samples to determine specified chemical, biological, or physical characteristics using purchased and prepared reagents and standards, through operation of both manual and automated specialized equipment and tools. 
-Measure and make laboratory solutions. Operates pH meter, spectrophotometer, electronic balance to determine chemical and physical characteristics of compounds and solutions.
-Concluding if quality control standards meet the standard operating procedures criteria, and if not what remedial measures should be implemented to ensure reporting accurate data. 
-Maintenance and repair of automated equipment and manual equipment. 
-Ensuring fellow employees follow safety guidelines and utilize protective equipment.
-Practice U.S. Environmental Protection Agency Good Laboratory Practice guidelines.
-Maintain effective working spaces by performing laboratory duties such as; cleaning, packing, and sterilizing glassware and other laboratory equipment.
+Analysis of samples to determine specified chemical, biological, or physical characteristics using purchased and/or prepared reagents and/or standards; through the operation of both manual and automated specialized equipment and tools. Recording the data, logging the data into our LIMS system and reviewing the data for quality.  
 
-Lab Technician      Full Time Employee                          03 and 2012 to 08/2014
-Preparation of samples for ICP and ICPMS analysis through operation of specialized tools and equipment. Maintenance of repair of specialized tools and equipment. Maintaining facilities organization and cleanliness of sample preparation and storage rooms.
+Use of a variety interpersonal communication to identify when to work independently or in a team setting to ensure that samples are analyzed and reported within their turn around times.  
+
+Training co-workers to preform testing following standard operating procedures, to utilize equipment, report/review data.  
+
+Troubleshooting failures in analytical testing to correct issues surrounding technique, regents, standards, instrumentation hardware failures, and/or instrumentation configuration failures.  
+
+Assisting co-workers with technical support, i.e., desktop support, networking support, printer support, local resources, and desktop installation. 
+
+Troubleshooting, repair and maintenance of staff computer systems, automated equipment, and manual equipment. 
+
+Utilizing 3rd party resources to identify issues surrounding equipment and/or configurations.  
+
+Member of Health and Safety Committee responsible for checking that co-workers are following safety guidelines, utilizing PPE, and the following the chemical hygiene policy.  
+
+Maintaining code used in instrumentation data analysis and reporting.  
+
+Ensuring fellow co-workers follow safety guidelines and utilize PPE. 
+
+Practice U.S. Environmental Protection Agency Good Laboratory Practice guidelines. 
+
+ 
+
+Analyst Full Time Employee  03/2012 to 08/2014 
+
+Preparation of samples for ICP and ICPMS analysis through operation of specialized tools and equipment. Maintaining facilities organization and cleanliness of sample preparation and storage rooms. 

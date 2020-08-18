@@ -23,6 +23,8 @@ const Skills = () => {
             frontmatter {
               title
               percentage
+              url
+              color
             }
           }
         }
@@ -40,12 +42,15 @@ const Skills = () => {
         {skills.map((item) => {
           const {
             id,
-            frontmatter: { title, percentage }
+            frontmatter: { title, percentage,url,color }
           } = item.node;
+          console.log(item)
 
           return (
             <Styled.Skill key={id}>
-              <ProgressBar title={title} percentage={percentage} />
+              <a href={url}>
+              <ProgressBar color={color} title={title} percentage={percentage} />
+              </a>
             </Styled.Skill>
           );
         })}

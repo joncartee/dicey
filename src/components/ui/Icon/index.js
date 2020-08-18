@@ -4,17 +4,20 @@ import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import {
   faLaptopCode,
-  faDrawPolygon,
   faEdit,
+  faDrawPolygon,
   faBullhorn,
   faMapMarkerAlt,
   faPhone,
-  faPaperPlane
+  faPaperPlane,
+  faDatabase,
+  faParagraph,
+  faScrewdriver
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 /* add any additional icon to the library */
-library.add(fab, faLaptopCode, faDrawPolygon, faEdit, faEdit, faBullhorn, faMapMarkerAlt, faPhone, faPaperPlane);
+library.add(fab,faScrewdriver,faParagraph,faDatabase, faLaptopCode, faDrawPolygon, faEdit, faEdit, faBullhorn, faMapMarkerAlt, faPhone, faPaperPlane);
 
 const Icon = ({ ...props }) => <FontAwesomeIcon {...props} />;
 
