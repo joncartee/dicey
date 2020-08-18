@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Jon_Cartee`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
+    description: `Resume page for Jon Cartee`,
     author: `Jon Cartee, template by Saimir Kapaj`
   },
   plugins: [
@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#ed64a6`,
         theme_color: `#ed64a6`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/littlebits.png`
       }
     },
     `gatsby-plugin-offline`,

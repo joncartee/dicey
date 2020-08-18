@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/home/j/resources/coding/j7c5/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-personal-website-starter","short_name":"starter","start_url":"/","background_color":"#ed64a6","theme_color":"#ed64a6","display":"minimal-ui","icon":"src/assets/images/gatsby-icon.png"},
+      options: {"plugins":[],"name":"gatsby-personal-website-starter","short_name":"starter","start_url":"/","background_color":"#ed64a6","theme_color":"#ed64a6","display":"minimal-ui","icon":"src/assets/images/littlebits.png"},
     },{
       plugin: require('/home/j/resources/coding/j7c5/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
