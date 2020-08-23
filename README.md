@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f96191f-f335-471a-b6a6-6c1529e37af7/deploy-status)](https://app.netlify.com/sites/mystifying-shaw-c066bc/deploys)
+
 # Gatsby Markdown Personal Website
 
 This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Markdown](https://www.markdownguide.org/), [Styled Components](https://styled-components.com/), [Talwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) & [React Font Awesome](https://github.com/FortAwesome/react-fontawesome).
