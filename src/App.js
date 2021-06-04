@@ -26,14 +26,10 @@ export class App extends react.Component {
 
   handleClick() {
     var passphrase = ""
-    for (let i = 1; i <= this.state.numOfWords; i++) {
-      if (i === this.state.numOfWords) {
-        passphrase += list[Math.round(Math.random() * 800)]
-      } else {
-        passphrase += list[Math.round(Math.random() * 800)] + this.state.del
-      }
+    for (var i = 1; i < this.state.numOfWords; i++) {
+      passphrase += list[Math.round(Math.random() * 800)] + this.state.del
     }
-    console.log(passphrase)
+    passphrase += list[Math.round(Math.random() * 800)]
     this.setState({ passphrase: passphrase })
   }
 
